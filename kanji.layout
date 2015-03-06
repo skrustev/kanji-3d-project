@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="kanji.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13943" topLine="207" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="29" />
+			<Collapse line="34" />
+			<Collapse line="39" />
+			<Collapse line="74" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

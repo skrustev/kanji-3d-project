@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1384374333 source:e:\fmi stuff\okg-programi\kanji-2-80803\kanji.cpp
+	<GL/glfw.h>
+	<math.h>
+
+1334835030 e:\programs\glfw-okg\include\gl\glfw.h
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
